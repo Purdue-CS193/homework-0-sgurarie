@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#Sam's First CS193 Homework
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- I'm learning new things about version control
+- I'll be better and more knowleadgable at using the terminal
+- I have my very own website on github now
 
 ### Markdown
 
@@ -11,15 +13,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#Testing testing a new header.
-## What's up world?
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
